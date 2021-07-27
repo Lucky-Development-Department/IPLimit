@@ -1,0 +1,4 @@
+deniedMessage: "&cYou have reached your connected account limit!"
+defaultLimit: 1
+limits:
+  127,0,0,1: 3
